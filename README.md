@@ -2,3 +2,4 @@ I have created Simple Dicision Making app wehen you press the button Spin the wh
 
 ![image](https://github.com/yawarKhaplu/yesNo-Wheel/assets/91775584/d5046647-f1dc-4750-99d7-3bccfa4522bd)
 
+I have used my basic knowledge of HTML, CSS and JS.
